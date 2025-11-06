@@ -1,16 +1,14 @@
-## Hi there 👋
+Passionate about software craftsmanship and implementation details.
 
-<!--
-**BhaveshKukreja29/BhaveshKukreja29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a backend developer who enjoys building systems and understanding how they work at their core. I love writing code in Python. Here are some of my creations:
 
-Here are some ideas to get you started:
+* **Rexus:** A high-performance API Gateway built with FastAPI, featuring caching and rate limiting with Redis. [GitHub](https://github.com/BhaveshKukreja29/Rexus)
+* **King's Gambit:** A full-stack, real-time chess platform with a React frontend and Django backend, including WebRTC video chat. [GitHub](https://github.com/BhaveshKukreja29/KingsGambit)
+* **PaperPal:** A CLI research assistant that uses the Gemini API for document summarization and Q&A. [GitHub](https://github.com/BhaveshKukreja29/PaperPal)
+* **Shooter Game:** A simple enemy shooter game I made in C using Borland's graphics.h [GitHub](https://github.com/BhaveshKukreja29/shooter-game)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+I also do deep dives into CPython's source code and write about my findings:
+
+* How Python lists use a dynamic C array for performance: [Article](https://dev.to/bhavesh_kukreja/how-do-lists-really-work-in-python-4cmn)
+* Explaining Python's dictionary structure and O(1) lookups: [Article](https://dev.to/bhavesh_kukreja/a-deep-dive-into-python-dictionaries-4758)
