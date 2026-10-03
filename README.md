@@ -3,7 +3,7 @@ I enjoy crafting systems and understanding how they work inside out.
 I've also contributed to open source code during my internship. Things I've worked on:
 
 * [MXGo](https://github.com/mxgoai/mxgo-core) - an AI email assistant. I worked on newsletter scheduling, recurring tasks, rate limiting, tests, and fixed a PostgreSQL connection pool leak.
-* [Newsletter Gen UI](https://github.com/mxgoai/newsletter-gen-ui/commits/main/) - worked on the frontend for MXGo's newsletter generation flow.
+* [Newsletter Gen UI](https://github.com/mxgoai/newsletter-gen-ui/) - worked on the frontend for MXGo's newsletter generation flow.
 
 I also write blogs!
 
