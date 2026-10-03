@@ -1,5 +1,7 @@
 I enjoy crafting systems and understanding how they work inside out.
 
+Most of what I build is backend/full-stack software, usually with Python, FastAPI, PostgreSQL and React. But AI and Web3? I am coming for you!!!
+
 I've also contributed to open source code during my internship. Things I've worked on:
 
 * [MXGo](https://github.com/mxgoai/mxgo-core) - an AI email assistant. I worked on newsletter scheduling, recurring tasks, rate limiting, tests, and fixed a PostgreSQL connection pool leak.
