@@ -1,6 +1,6 @@
 I enjoy crafting systems and understanding how they work inside out.
 
-Most of what I build is backend/full-stack software, usually with Python, FastAPI, PostgreSQL and React. But AI and Web3? I am coming for you!!!
+Most of what I build is with Python, FastAPI, PostgreSQL and React.
 
 I've also contributed to open source code during my internship. Things I've worked on:
 
